@@ -1,4 +1,4 @@
-# WhoisDataCenter
+# Whois Data Downloader
 Auto downloader of whoisdatabase by cron file. 
 
 #Newly Registered Domains Downloader

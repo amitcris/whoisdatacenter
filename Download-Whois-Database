@@ -1,0 +1,3 @@
+#!/bin/bash
+yesterday=$(date --date "1 days ago" +%F)
+wget --user=USER --password='PASSWD' https://global.whoisdatacenter.com/$yesterday.zip
